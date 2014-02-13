@@ -1,0 +1,20 @@
+{
+  "name": "ringcaptcha",
+  "version": "0.0.0",
+  "description": "Node.js wrapper for the RingCaptcha API",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ringcaptcha/ringcaptcha-node.git"
+  },
+  "keywords": [
+    "ringcaptcha",
+    "phone",
+    "verification",
+    "captcha"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ringcaptcha/ringcaptcha-node/issues"
+  },
+  "homepage": "https://github.com/ringcaptcha/ringcaptcha-node"
+}
