@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ringcaptcha/ringcaptcha-node/issues"
   },
-  "homepage": "https://github.com/ringcaptcha/ringcaptcha-node"
+  "homepage": "https://github.com/ringcaptcha/ringcaptcha-node",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
 }
