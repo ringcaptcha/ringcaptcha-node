@@ -18,6 +18,5 @@
   },
   "homepage": "https://github.com/ringcaptcha/ringcaptcha-node",
   "dependencies": {
-    "lodash": "^2.4.1"
   }
 }
