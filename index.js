@@ -17,7 +17,7 @@ function getConfigFile() {
 
 	for(var i = 0; i < CONFIG_LOCATIONS.length; i++) {
 		filepath = path.join(path.resolve(CONFIG_LOCATIONS[i]), DEFAULT_CONFIG_FNAME);
-		if(!exists(filepath) ) continue;
+		if( !exists(filepath) ) continue;
 		return require(filepath).config;
 	}
 }
