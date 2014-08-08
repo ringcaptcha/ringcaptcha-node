@@ -31,6 +31,4 @@ try{
 	throw new Error(configError);
 }
 
-var RC = new RingCaptcha( new Config(config.api) );
-
-module.exports.RingCaptcha = RC;
+module.exports = new RingCaptcha( new Config(config.api) );
