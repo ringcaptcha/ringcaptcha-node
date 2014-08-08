@@ -32,3 +32,5 @@ try{
 }
 
 var RC = new RingCaptcha( new Config(config.api) );
+
+module.exports.RingCaptcha = RC;
