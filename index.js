@@ -8,6 +8,7 @@ var	path 		= require('path'),
 	exists       = fs.existsSync || path.existsSync,
 	CONFIG_LOCATIONS = [
 		path.join(__dirname, '..', '..'), // above node_modules
+		path.join(__dirname, '..', '../config'), //above node_modules config directory
 		process.cwd()
 	];
 
