@@ -1,6 +1,6 @@
 {
   "name": "ringcaptcha",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js wrapper for the RingCaptcha API",
   "repository": {
     "type": "git",
