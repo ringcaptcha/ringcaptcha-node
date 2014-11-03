@@ -1,6 +1,6 @@
 {
   "name": "ringcaptcha",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Node.js wrapper for the RingCaptcha API",
   "repository": {
     "type": "git",
@@ -16,5 +16,7 @@
   "bugs": {
     "url": "https://github.com/ringcaptcha/ringcaptcha-node/issues"
   },
-  "homepage": "https://github.com/ringcaptcha/ringcaptcha-node"
+  "homepage": "https://github.com/ringcaptcha/ringcaptcha-node",
+  "dependencies": {
+  }
 }
